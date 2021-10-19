@@ -1,4 +1,6 @@
 This is sample1 from practice 2
 Adding a second line
 Adding a third line
-Adding fourth from vi
+Adding fourth from vi. 
+Adding fourth line directly.
+
